@@ -1,2 +1,2 @@
-Hello#Github and git
+#Github and git
 Gloria Llakmani h02308 
